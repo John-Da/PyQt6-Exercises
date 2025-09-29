@@ -1,1 +1,1 @@
-# PyQt6-Exercises
+# Basic PyQt6 Exercises
